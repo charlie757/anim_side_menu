@@ -2,8 +2,9 @@ name: anim_side_menu
 description: "Easily integrate smooth, anim side menus with customization options."
 version: 0.0.7
 author: Ravi Gupta
-homepage:
-license: MIT
+repository: https://github.com/charlie757/anim_side_menu/tree/main
+homepage: https://github.com/charlie757/anim_side_menu/tree/main
+license: MIT 
 
 environment:
   sdk: '>=3.4.3 <4.0.0'

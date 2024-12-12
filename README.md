@@ -41,7 +41,7 @@ dependencies:
   ```
 
 ### 2. SideMenuType.animNRotate
-![Image Alt Text](assets/animNRotate.JPEG)
+![Image Alt Text](assets/animNRotate.png)
 ``` sidemenubar
 
 
@@ -69,7 +69,7 @@ SideMenu(
 ```
 
 ### 3. SideMenuType.animNSlide
-![Image Alt Text](assets/animNSlide.JPEG)
+![Image Alt Text](assets/animNSlide.png)
 ``` sidemenubar
 
 
@@ -97,7 +97,7 @@ SideMenu(
 ```
 
 ### 4. SideMenuType.slide
-![Image Alt Text](assets/slide.JPEG)
+![Image Alt Text](assets/slide.png)
 ``` sidemenubar
 
 
@@ -126,7 +126,7 @@ SideMenu(
 
 ### 5. SideMenuType.slideNRotate
 
-![Image Alt Text](assets/slideNRotate.JPEG)
+![Image Alt Text](assets/slideNRotate.png)
 ``` sidemenubar
 
 final GlobalKey<SideMenuState> _sideMenuKey = GlobalKey<SideMenuState>();

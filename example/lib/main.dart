@@ -57,7 +57,7 @@ toggleMenu(){
     return SideMenu(
       
       key: _sideMenuKey,
-        type: SideMenuType.animNSlide,
+        type: SideMenuType.slide,
         onClosedIcon: (){
           toggleMenu();
         },
